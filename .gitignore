@@ -1,0 +1,5 @@
+*.class
+.bloop/
+.metals/
+target/
+project/project/
